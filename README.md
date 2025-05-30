@@ -31,12 +31,14 @@ The **Resume Builder Agent** is a dynamic web-based application that:
 - **Icons**: Lucide React  
 - **State Management**: React Hooks (useState, useContext)
 
+Live Link: https://resume-build-agent-afk9.vercel.app/
+
 ## 🚀 Getting Started
 
 ### Installation
 
 ```bash
 git clone https://github.com/Meetpidev/Resume-Build-Agent.git
-cd resume-builder-agent
+cd project
 npm install
 npm run dev
